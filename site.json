@@ -1,0 +1,10 @@
+{
+  "description": "Helps Barangay Lapasan residents report waste issues, check collection schedules, find disposal points, and learn proper waste segregation while officials manage community services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
